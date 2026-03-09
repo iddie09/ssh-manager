@@ -1,3 +1,3 @@
 INSTALLATION🟢
 ```
-bash <(curl -s https://raw.githubusercontent.com/ssh-manager/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/ssh-manager/main/install.sh)
